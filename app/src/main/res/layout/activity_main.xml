@@ -17,7 +17,8 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:gravity="center" />
+            android:gravity="center"
+            app:title="Demonstration" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
