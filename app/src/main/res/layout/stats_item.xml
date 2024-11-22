@@ -6,9 +6,7 @@
     android:layout_height="wrap_content"
     android:id="@+id/statsItem"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_margin="8dp"
-    android:gravity="center_horizontal"
-    android:orientation="vertical">
+    android:layout_margin="8dp">
 
     <TextView
         android:id="@+id/textViewCalc"
